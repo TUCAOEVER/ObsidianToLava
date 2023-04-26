@@ -1,0 +1,8 @@
+name: ObsidianToLava
+version: '${project.version}'
+main: com.promc.obsidiantolava.ObsidianToLava
+api-version: 1.16
+commands:
+  obsidiantolava:
+    aliases:
+      - "otl"

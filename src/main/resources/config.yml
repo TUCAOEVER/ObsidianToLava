@@ -1,0 +1,9 @@
+settings:
+  enabled-world:
+    - SKYBLOCK
+
+messages:
+  no-permission: '&8[&c!&8]&7 你没有足够的权限以执行该命令.'
+  switch-on-otl: '&8[&a!&8]&f 已启用 桶装黑曜石 功能. &7&o(手持铁桶右键黑曜石即可将其转换为岩浆.)'
+  switch-off-otl: '&8[&a!&8]&f 已禁用 桶装黑曜石 功能.'
+  unknown-command: '&8[&c!&8]&7 未知命令. 输入 &c"/otl switch"&7 以切换 桶装黑曜石功能.'
